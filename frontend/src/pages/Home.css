@@ -1,0 +1,8 @@
+#Home_hero {
+	width: 100%;
+	height: 100%;
+	background-image: linear-gradient(180deg, rgba(199, 175, 139, .5) 0%, rgba(255, 255, 255, 1) 100%), url(/public/plato-landing.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
